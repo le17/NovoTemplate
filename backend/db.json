@@ -1,0 +1,24 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "name": "Luiz alves",
+      "mensalidade": 300
+    },
+    {
+      "id": 2,
+      "name": "Marcelo santos",
+      "mensalidade": "1200.00"
+    },
+    {
+      "id": 3,
+      "name": "Leandro Rocha",
+      "mensalidade": "500.00"
+    },
+    {
+      "name": "Lais Lima da Silva",
+      "mensalidade": "450.00",
+      "id": 4
+    }
+  ]
+}
